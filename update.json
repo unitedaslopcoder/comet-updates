@@ -1,7 +1,7 @@
 {
   "version": "0.0.1",
   "date": "2026-11-26",
-  "url": "https://github.com/unitedaslopcoder/comet-updates/releases/download/v0.0.1/Comet-Setup-0.0.1.exe",
+  "url": "https://github.com/unitedaslopcoder/comet-updates/releases/download/release/Comet-Setup-0.0.1.exe",
   "sha512": "6fa80761bcd68c794d5614c40772f62e5186e233e851e1458a4e4b2bfd6318eadd7b1eec72a35ddf792c8630625b0e7dfa0fc7f65f570aa58bc7bfe7f4aad147",
   "notes": [
     "First public alpha build of Comet."
